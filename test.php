@@ -1,5 +1,5 @@
 <?
-$queryUrl = 'https://ultralive.bitrix24.ru/rest/11/bdb8uef8w3f9orml/user.current.json';
+$queryUrl = 'https://ultralive.bitrix24.ru/rest/11/bdb8uef8w3f9orml/calendar.event.add.json';
 $queryData = http_build_query(array(
      		type: 'user',
      	 	ownerId: '11',
@@ -18,5 +18,10 @@ curl_setopt_array($curl, array(
   CURLOPT_RETURNTRANSFER => 1,
   CURLOPT_URL => $queryUrl,
 ));
+
+curl_close($curl);
+
+
+
 
  
