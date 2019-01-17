@@ -13,15 +13,11 @@
 <title>test</title>
 <location>http://146.120.241.21:1935/vod/mp4:sample.mp4/chunklist_w1797510113.m3u8
 </location></track>
-  <track>
+<track>
 <title>test_DVR</title>
 <location>http://146.120.241.21:1935/live/opera/chunklist_w1789750289_ps10000_pd30000_DVR.m3u8
-</location></track>
-  <track>
-<title>test_MDP</title>
-<location>http://146.120.241.21:1935/live/opera/manifest.mpd?DVR&wowzadvrplayliststart=10000&wowzadvrplaylistduration=30000
-</location></track>  
-  <track>
+</location></track> 
+<track>
 <title>test_VOD</title>
 <location>http://146.120.241.21:1935/vod/mp4:opera2.mp4/chunklist_w662221152.m3u8
 </location></track>   
