@@ -9,6 +9,10 @@
 <title>WOWZA1080</title>
 <location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
 </location></track>
+  <track>
+<title>YANDEX</title>
+<location>http://192.145.99.80:1935/yandex/permopera/chunklist_w952245344.m3u8
+</location></track>
 <track>
 <title>test</title>
 <location>http://192.145.99.80:1935/vod/mp4:operatest.mp4/chunklist_w1797510113.m3u8
