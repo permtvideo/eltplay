@@ -4,14 +4,73 @@
 
 <trackList>
 
-
-<track>
-<title>permopera</title>
-<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
-</location></track>
 <track>
 <title>test</title>
 <location>http://192.145.99.80:1935/vod/mp4:sample.mp4/chunklist_w1797510113.m3u8
+</location></track>
+  <track>
+<title>20 Soldatova</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>21 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>21 triumf</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>22 triumf</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>23 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>24 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>24 triumf</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>25 opera</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>26 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>26 opera</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>27 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>27 triumf</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>28 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>28 opera</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>29 organ</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
+</location></track>
+  <track>
+<title>30 opera</title>
+<location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
 </location></track>
 
 </trackList>
