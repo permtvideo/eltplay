@@ -46,11 +46,11 @@
 </location></track>
   <track>
 <title>26 opera</title>
-<location>http://192.145.99.80:1935/live/opera/chunklist_w952245010.m3u8
+<location>http://192.145.99.80:1935/live/opera2/chunklist_w952245010.m3u8
 </location></track>
   <track>
 <title>27 organ</title>
-<location>http://192.145.99.80:1935/live/opera/chunklist_w952245011.m3u8
+<location>http://192.145.99.80:1935/live/opera2/chunklist_w952245011.m3u8
 </location></track>
   <track>
 <title>27 triumf</title>
@@ -62,7 +62,7 @@
 </location></track>
   <track>
 <title>28 opera</title>
-<location>http://192.145.99.80:1935/live/opera/chunklist_w952245014.m3u8
+<location>http://192.145.99.80:1935/live/opera2/chunklist_w952245014.m3u8
 </location></track>
   <track>
 <title>29 organ</title>
