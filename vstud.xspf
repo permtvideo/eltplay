@@ -6,12 +6,16 @@
 
 
 <track>
-<title>DF potok 1</title>
+<title>opera 1</title>
 <location>http://192.145.99.80:1935/live/opera/chunklist_w952245344.m3u8
 </location></track>
   <track>
-<title>DF potok 2</title>
+<title>opera 2</title>
 <location>http://192.145.99.80:1935/live/opera2/chunklist_w952245344.m3u8
+</location></track>
+   <track>
+<title>Amazon</title>
+<location>http://3.64.175.208:1935/live/opera/chunklist_w952245344.m3u8
 </location></track>
   <track>
 <title>YANDEX</title>
